@@ -32,7 +32,7 @@ Mosaic-Packed/
 
 | Input (single cropped object) | Output (packed mosaic) |
 :-----------------------------:|:-----------------------:
-![Sample input](sample/images/set1_object01.jpg) | ![Packed result](result/images/packed_0.jpg)
+![Sample input](sample/images/set1_object01.jpg) | ![Packed result](result/images/packed_1.jpg)
 
 ## 🕹️ Usage
 1. Place your source images and labels in the `sample/` folder.
