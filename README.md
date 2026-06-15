@@ -37,4 +37,9 @@ Mosaic-Packed/
    ```
 4. Find your generated mosaics in the `result/` directory.
 
+## 🔗 Related Projects
+
+- [Auto-Image-Labeling](https://github.com/dzakyalfitra/Auto-Image-Labeling) — Automated bounding box label generation using OpenCV and Otsu's thresholding, with YOLO-format export.
+- [Image-Splitter](https://github.com/dzakyalfitra/Image-Splitter) — Image splitting utility for preprocessing and dataset preparation.
+
 ---
